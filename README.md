@@ -48,7 +48,8 @@ The project uses four datasets:
 
 ## 📸 Screenshots
 
-Screenshots of pivot tables, charts, and dashboards are provided in the [`/screenshots`](./screenshots) folder.
+Screenshots of pivot tables, charts, and dashboards are provided in the [`/Screenshots`](./Screenshots) folder.
+
 
 ---
 
